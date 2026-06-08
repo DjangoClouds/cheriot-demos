@@ -1,9 +1,9 @@
 [submodule "cheriot-rtos"]
 	path = cheriot-rtos
-	url = https://github.com/CHERIoT-Platform/cheriot-rtos
+	url = https://github.com/DjangoClouds/cheriot-rtos
 [submodule "network-stack"]
 	path = network-stack
-	url = https://github.com/CHERIoT-Platform/network-stack.git
+	url = https://github.com/DjangoClouds/network-stack.git
 [submodule "third_party/crypto/libhydrogen"]
 	path = third_party/crypto/libhydrogen
 	url = https://github.com/ConfiguredThings/libhydrogen.git
